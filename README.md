@@ -13,16 +13,16 @@
 
 ### Project Overview
 
-In this project, I analyze FitBit fitness tracker data to gain insights into how consumers are using the FitBit app and discover trends for Bellabeat marketing strategy.
+In this project, I analyze Fitbit fitness tracker data to gain insights into how consumers are using the Fitbit app and discover trends for Bellabeat marketing strategy.
 
 ### Data Source
 
-Fitness Data: The primary dataset used for this analysis is the "dailyActivity_merged.csv" file, from kaggle, containing detailed information about the FitBit Fitness Tracker.
+Fitness Data: The primary dataset used for this analysis is the "dailyActivity_merged.csv" file, from Kaggle, containing detailed information about the Fitbit Fitness Tracker.
 
 
 ### Tools
 
-   - Microsoft Excel : Data Cleaning, Data Analysis, Data Visualization [Download_here](https://www.microsoft.com/en-us/)
+     - Microsoft Excel: Data Cleaning, Data Analysis, Data Visualization [Download_here](https://www.microsoft.com/en-us/)
 
 ### Data Cleaning and Preparation
 
@@ -45,17 +45,17 @@ I used pivot tables and charts
 [Table](statistical findi![statistical findings](https://github.com/user-attachments/assets/f032bd77-7db5-4e33-86ac-e52f07ff7b20)
 ngs.PNG)
 
-From the table people spent more time, more steps and burnt more calories on Tuesday.
+From the table people spent more time, more steps and burnt more calories on Tuesdays.
 
 [Chart](Histogram plot.P![Histogram plot](https://github.com/user-attachments/assets/73c09f9f-29e9-439e-90b3-029188b0be2c)
 NG) 
 
-In this histogram, we are looking at the frequency of FitBit app usage in terms of days of the week .The frequency dropped on Monday and continued on Wednesday through to Thursday
+In this histogram, we are looking at the frequency of Fitbit app usage in terms of days of the week. The frequency dropped on Monday and continued on Wednesday through to Thursday
 
 [Graph](scatter diagram.P![scatter diagram plot](https://github.com/user-attachments/assets/40c63253-54ae-43e8-b618-7dfd0265f68d)
 NG)
 
-We observed that intensity of calories burned increases when users are at the range of > 0 t0 15,000 steps with calories burn rate cooling down from 15,000 steps  onwards
+We observed that intensity of calories burned increases when users are at the range of > 0 t0 15,000 steps with calories burn rate cooling down from 15,000 steps onwards
 
 [chart](pie chart plot.PNG)![pie chart plot](https://github.com/user-attachments/assets/97431a55-f6ca-4c3a-9cd7-49215771160b)
 
@@ -64,13 +64,14 @@ Also, the app is rarely being used to track fitness as per the minor percentage 
 
 ### Results and Findings
 
-- Majority of users (83.28%) are using the FitBit app to track sedentary acativities and not using it for tracking their health habits.
-- Users prefer to track their activities during the end of the week day as compared to the beginning of the week- perhaps they're less busy during Thursdays and Friday and very busy as compared to Mondays and Tuesdays.
+- Majority of users (83.28%) are using the Fitbit app to track sedentary activities and not using it for tracking their health habits.
+- Users prefer to track their activities during the end of the week day as compared to the beginning of the week - perhaps they're less busy during Thursdays and Friday and very busy as compared to Mondays and Tuesdays.
+
 
 ### Recommendations
 
-- Educational healthy style campaign can pair with a point-reward incentive system. Users completing the whole week's exercise will receive Bellabeat points on products/memberships.
+- Introduce an educational healthy style campaign which will pair with a point-reward incentive system, where users completing the whole week's exercise will receive Bellabeat points on products/memberships to encourage them use the app through the whole week and not only during the end of the weekday.
 - On Mondays and Tuesdays, Bellabeat can also prompt notifications to encourage users to exercise.
-- Educational healthy style campaign encourages users to have short active exercises getting to the end of the weekday, and longer on Mondays and Tuesdays.  
+
 
 
